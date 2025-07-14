@@ -83,7 +83,7 @@ In your root directory, make sure your .gitignore includes this line:
 ✅ This prevents Git from tracking the .env file going forward.
 
 
-### Run the app:
+## Run the app:
 
 streamlit run app.py
 
@@ -95,5 +95,3 @@ Get AI-generated answers in real time
 
 
 
-📜 License
-This project is licensed under the MIT License.
