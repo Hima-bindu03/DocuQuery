@@ -35,13 +35,13 @@ cd DocuQuery
 
 ### 2. Create and Activate a Virtual Environment
 
-*Windows*
+#### Windows
 python -m venv venv
 venv\Scripts\activate    
----
-*macOS/Linux*
-source venv/bin/activate  # macOS/Linux
----
+
+#### macOS/Linux
+source venv/bin/activate  
+
 ### 3. Install Dependencies
 
 pip install -r requirements.txt
