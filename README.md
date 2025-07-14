@@ -37,6 +37,7 @@ cd DocuQuery
 
 #### Windows
 python -m venv venv
+---
 venv\Scripts\activate    
 
 #### macOS/Linux
