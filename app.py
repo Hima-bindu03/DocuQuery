@@ -1,5 +1,5 @@
 import streamlit as st
-from qna_engine import process_file, init_llm, build_vector_store, answer_question
+from DocuQuery.qna_engine import process_file, init_llm, build_vector_store, answer_question
 
 # Initialize session state
 if 'vector_store' not in st.session_state:
