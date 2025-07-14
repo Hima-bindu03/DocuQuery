@@ -36,9 +36,7 @@ cd DocuQuery
 ### 2. Create and Activate a Virtual Environment
 
 #### Windows
-python -m venv venv
----
-venv\Scripts\activate    
+<pre> ``` python -m venv venv venv\Scripts\activate ``` </pre>  
 
 #### macOS/Linux
 source venv/bin/activate  
